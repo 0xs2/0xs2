@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I go by sui online. I been programming for 2 years now maining interacting with APIs, web scraping to get what I want and building web applications.
+I go by sui online. I been programming for 2 years now mainly interacting with APIs, web scraping to get what I want and building web applications.
 
 - 🔭 I’m currently working on [J-Stats](https://j-stats.xyz), [Easy Converter](https://easyconverter.org)
 - 🌱 I’m currently learning whatever I find interesting.
